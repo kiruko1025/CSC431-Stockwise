@@ -1,2 +1,2 @@
 # Stockwise
-CSC427 project
+CSC427 project final package
